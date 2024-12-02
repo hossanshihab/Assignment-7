@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Sora:wght@100..800&display=swap");
+body{
+  font-family: "Sora";
+}
+
+.banner {
+  position: relative;
+  background-color: #234;
+  background-image: url(assets/bg-shadow.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50px;
+  padding: 5px;
+  height: 400px;
+  overflow: hidden;
+  color: white;
+}
+
+.banner:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+

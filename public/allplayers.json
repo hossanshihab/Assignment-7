@@ -1,0 +1,102 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/wzqD0CX/64be56d34cff4a001db5259c.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 2,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/R2vPXWz/1776405.jpg",
+    "role": "Batsman",
+    "bowlingType": "Right-arm legbreak",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": 3,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/px0WDFH/have-been-living-a-dream-past-few-days-filled-with-gratitude-bumrah-2024-07-08.jpg",
+    "role": "Bowler",
+    "bowlingType": "Right-arm fast",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": 4,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/1KTn0Yb/2350408.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-leg",
+    "biddingPrice": 1700000
+  },
+  {
+    "playerId": 5,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/djnfZPG/2940380.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-hand spin",
+    "biddingPrice": 2200000
+  },
+  {
+    "playerId": 6,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/M7qMqjz/5396012.jpg",
+    "role": "Bowler",
+    "bowlingType": "Right-arm legbreak",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": 7,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/fqW1fB3/warner-player-of-the-tournamen-0-1200x768-1-1.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-hand leg",
+    "biddingPrice": 1900000
+  },
+  {
+    "playerId": 8,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/bdrNgf2/9949277.jpg",
+    "role": "Bowler",
+    "bowlingType": "Left-arm medium",
+    "battingType": "Left-hand Bat",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": 9,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/SKsyfYW/Sakib20200101150806.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 10,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/hFwPgMQ/VILLIERS.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2100000
+  }
+]
